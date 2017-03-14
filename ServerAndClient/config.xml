@@ -1,0 +1,7 @@
+<?xml version = "1.0"?>
+<config>
+  <DB>DAO.DataBaseConnectionToAccess</DB>
+  <Server>overall.BuildServer</Server>
+  <Client>overall.BuildClient</Client>
+  <dialog>view.Adapter</dialog>
+</config>
