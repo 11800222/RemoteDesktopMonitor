@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: Test.Test33
-Class-Path: lib/Access_JDBC30(ÒÑÆÆ½â).jar lib/forms-1.3.0.jar
